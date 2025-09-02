@@ -1,4 +1,4 @@
-const Utilitarios = require('./utilitarios');
+const Utilitarios = require('../src/utilitarios');
 const util = new Utilitarios();
 
 describe('Testes da classe Utilitarios', () => {
